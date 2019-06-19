@@ -1,3 +1,4 @@
+
 Katz_deli = []
  => ["The line is currently empty"]
  puts ("someone should be in the line")
